@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Dhruv Ghevariya
 
-### 🚀 Aspiring Full-Stack Developer
+### 🚀 Full-Stack Developer | Java • Python • Web Development
 I am a 2nd-year student passionate about building functional web applications. I focus on bridging the gap between clean frontend design and efficient backend logic using Java and Python.
 
 ---
